@@ -1,6 +1,6 @@
 # AH Token
 
-![AH Token Logo](logo32x32.svg)
+![AH Token Logo](ChatGPT Image Nov 15, 2025, 08_10_12 AM.png)
 
 **Ticker:** AH  
 **Blockchain:** BNB Smart Chain (BEP-20)  
