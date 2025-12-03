@@ -23,9 +23,8 @@ Holders benefit from fast, low-fee transfers and active community support.
 - **Official Website:** [AH Token GitHub Pages](https://ahmadhassanbutt.github.io/ah-token/)  
 - **Whitepaper:** [Download PDF](whitepaper.pdf)  
 - **Social Media:**  
-  - Twitter: [@ah_token](https://twitter.com/ah_token)  
-  - Telegram: [Join Telegram](https://t.me/ah_token)  
-  - Discord: [Join Discord](https://discord.gg/ah_token)  
+  - Twitter: [@ah_token](https://twitter.com/ahtokenoffical)  
+  - Telegram: [Join Telegram](https://t.me/ahtokenoffical)    
   - GitHub: [Repository](https://github.com/ahmadhassanbutt/ah-token)  
 
 ---
