@@ -1,6 +1,6 @@
 # AH Token
 
-<img src="ah logo.png" alt="AH Token Logo" width="32" height="32">
+<img src="ah logo.jpg" alt="AH Token Logo" width="32" height="32">
 
 **Ticker:** AH  
 **Blockchain:** BNB Smart Chain (BEP-20)  
